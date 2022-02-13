@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <LangVersion>latest</LangVersion>
+    <Nullable>enable</Nullable>
+    <AssemblyName>Vardirsoft.StateMachine.Abstractions</AssemblyName>
+    <RootNamespace>Vardirsoft.StateMachine.Abstractions</RootNamespace>
+    <IsPackable>true</IsPackable>
+    <PackageId>Vardirsoft.StateMachine.Abstractions</PackageId>
+    <PackageVersion>2022.0.1.0</PackageVersion>
+    <Title>StateMachine Abstractions</Title>
+    <Copyright>Copyright © 2022 Andrew Satura</Copyright>
+    <Authors>Vardir</Authors>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>state-machine abstractions</PackageTags>
+    <Company>Vardirsoft</Company>
+    <Product>StateMachine</Product>
+    <AssemblyVersion>0.1.0</AssemblyVersion>
+    <FileVersion>0.1.0</FileVersion>
+    <Description>Provides a basic set of interfaces and attributes used to generate state machines.</Description>
+  </PropertyGroup>
+</Project>
